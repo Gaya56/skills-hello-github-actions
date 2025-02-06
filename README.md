@@ -4,7 +4,6 @@
 
 _Create and run a GitHub Actions workflow._
 
-commiting change step #5
 
 </header>
 
